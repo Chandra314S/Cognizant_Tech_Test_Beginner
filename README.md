@@ -76,12 +76,9 @@ A covering note explaining the technology choices you have made.
 
 1. Any instructions required to run your solution and tests in a Linux environment.
 2. Email as an attachment or a link the git bundled repository showing your commit history with all your commits on the master branch:
-
 ```
     git bundle create <anything>.bundle --all
 ```
-
-
 """Feature/Begginer Task:-
 GitHub Link:- https://github.com/Chandra314S/cognizant_tech_test_beginner.git
 
